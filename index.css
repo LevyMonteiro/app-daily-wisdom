@@ -1,0 +1,59 @@
+* {
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #523956;
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+}
+
+#container {
+    margin-top: 77px;
+    width: 80%;
+    margin-inline: auto;
+    max-width: 800px;
+}
+
+p {
+    opacity: 0.9;
+}
+
+a, .btn-link {
+    text-decoration: none;
+    background-color: black;
+    color: #CBB3BF;
+    width: 77%;
+    padding: 20px;
+    border-radius: 7px;
+    font-size: 20px;    
+    margin-top: 20px;
+    transition: filter 0.2;
+}
+
+a:hover {
+    cursor: pointer;
+    filter: brightness(1.2);
+    color: #523956;
+}
+
+#fraseElement {
+    margin-top: 150px;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#reflexaoElement {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: black;
+    opacity: 1.0;
+    margin-bottom: 50px;
+}
+
+a {
+    border: 50px;
+}
