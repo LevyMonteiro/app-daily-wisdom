@@ -29,8 +29,8 @@ a, .btn-link {
     padding: 20px;
     border-radius: 7px;
     font-size: 20px;    
-    margin-top: 20px;
     transition: filter 0.2;
+    margin-top: 50px;
 }
 
 a:hover {
@@ -52,8 +52,4 @@ a:hover {
     color: black;
     opacity: 1.0;
     margin-bottom: 50px;
-}
-
-a {
-    border: 50px;
 }

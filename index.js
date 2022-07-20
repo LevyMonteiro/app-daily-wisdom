@@ -104,7 +104,9 @@ const frases = [
 "Se não couber na sua mente, não vai caber na sua mão.",
 "A dor tem como objetivo gerar movimento.",
 "A realidade é um glorioso cemitério de sonhos. - Filipe Ret",
-"Suas atitudes gritam tão alto que eu não consigo ouvir o que você está dizendo."
+"Suas atitudes gritam tão alto que eu não consigo ouvir o que você está dizendo.",
+"Nenhuma dor é maior que a capacidade de Deus de curar.",
+"A constância dispensa exagero",
 ]
 const reflexoes = [
 "muitas pessoas acabam olhando para pessoas bem sucedidas em qualquer que for a área e acham que as imitando terão os mesmos resultados, mas a realidade é que o que levou essas pessoas aos seus lugares atuais não é o que elas estão fazendo hoje, mas o que elas fizeram até aqui; o treino e alimentação de um jogardor de futebol em formação e diferente de um jogador ja maduro, um precisa ganhar massa, resistência entre outras qualidaddes, enquanto outro precisa de ajustes finos; assim como um investidor bem sucedido, se você for se inpirar em seus estilo de vida e não tiver mutio dinheiro, rapidamente vai quebrar, indo em restaurantes caros, viagens, festas, adquirindo passivos e muito mais, mas a real é que esses investidores só podem se dar esse luxo porque tiveram exito em suas areas, mas não foi sempre assim, no caminho até o sucesso eles provavelmente não tinham acesso a esse estilo de vida, mas estavam focados em fazer seus negócios e investimentos darem certo. Então quando você olhar para alguém que admira, se pergunte oque ela fez para chegar até ali, e não o que ela faz hoje."
